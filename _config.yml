@@ -7,13 +7,10 @@ lang: fr
 
 # SEO et métadonnées
 author: "Oumar Djime Ratou"
-keywords: "cybersécurité, intelligence artificielle, blockchain, développement web, cryptographie, sécurité informatique, Tchad"
+#keywords: "cybersécurité, intelligence artificielle, blockchain, développement web, cryptographie, sécurité informatique, Tchad"
 
 # Réseaux sociaux
-social:
-  email: "oudjira@yahoo.com"
-  website: "https://ontech-securities.com"
-  github: "oumar90"
+#
 
 # Configuration GitHub Pages
 plugins:
