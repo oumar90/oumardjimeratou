@@ -43,7 +43,7 @@
 - [Eventix un outils de ventes de billets en ligne](https://eventix.com)
 
 ### 🔒 Outils open-source
-- [Outil de chiffrement/déchiffrement](https://github.com/oumar90/) (Java, Swing, NetBeans)
+- [Outil de chiffrement/déchiffrement](https://github.com/oumar90/oudjirasign) (Python)
 
 ### 🌐 Développement Web
 - [groupe-foullahedifice.com](https://groupe-foullahedifice.com)  
