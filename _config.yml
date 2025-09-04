@@ -1,6 +1,48 @@
 title: "OUMAR DJIME RATOU"
 logo: img/oudjira.jpeg
-descrition: "Portfolio IA Automation - Cybersecurity"
+description: "Ingénieur Cybersécurité | Expert IA & Blockchain | Développeur Full Stack"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
+
+# SEO et métadonnées
+author: "Oumar Djime Ratou"
+keywords: "cybersécurité, intelligence artificielle, blockchain, développement web, cryptographie, sécurité informatique, Tchad"
+
+# Réseaux sociaux
+social:
+  email: "oudjira@yahoo.com"
+  website: "https://ontech-securities.com"
+  github: "oumar90"
+
+# Configuration GitHub Pages
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation (optionnel)
+navigation:
+  - title: Accueil
+    url: /
+  - title: Projets
+    url: /#projets
+  - title: Compétences
+    url: /#compétences
+  - title: Contact
+    url: /#contact
+
+# Configuration markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclusions
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
