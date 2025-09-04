@@ -46,12 +46,10 @@
 - [Outil de chiffrement/déchiffrement](https://github.com/oumar90/oudjirasign) (Python)
 
 ### 🌐 Développement Web
-- [groupe-foullahedifice.com](https://groupe-foullahedifice.com)  
-- [ascolombes.com](https://ascolombes.com)  
-- [adiligenceconseil.com](https://adiligenceconseil.com)  
-- [socagridev.com](https://socagridev.com)  
-- [infosytics.com](https://infosytics.com)  
-- [kakiang.web.app](https://kakiang.web.app)  
+- [groupe-foullahedifice.com](https://groupe-foullahedifice.com) (WordPress, Elementor) 
+- [ascolombes.com](https://ascolombes.com) (WordPress, Elementor) 
+- [adiligenceconseil.com](https://adiligenceconseil.com) (WordPress, Elementor) 
+- [socagridev.com](https://socagridev.com) (WordPress, Elementor) 
 
 👉 Découvre plus de mes projets sur mon GitHub : [github.com/oumar90](https://github.com/oumar90)
 
