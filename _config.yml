@@ -1,22 +1,11 @@
 title: "OUMAR DJIME RATOU"
 logo: img/oudjira.jpeg
-description: "Ingénieur Cybersécurité | Expert IA & Blockchain | Développeur Full Stack"
+description: "Ingénieur Cybersécurité | Expert IA & Blockchain"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
 
-# SEO et métadonnées
-author: "Oumar Djime Ratou"
-#keywords: "cybersécurité, intelligence artificielle, blockchain, développement web, cryptographie, sécurité informatique, Tchad"
 
-# Réseaux sociaux
-#
-
-# Configuration GitHub Pages
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
 
 # Configuration markdown
 markdown: kramdown
