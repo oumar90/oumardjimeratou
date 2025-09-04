@@ -1,16 +1,7 @@
 title: "OUMAR DJIME RATOU"
 logo: img/oudjira.jpeg
-description: "Ingénieur Cybersécurité | Expert IA & Blockchain"
+description: "Ingénieur Cybersécurité | Expert IA"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
-
-
-
-# Configuration markdown
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
 
