@@ -21,17 +21,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation (optionnel)
-navigation:
-  - title: Accueil
-    url: /
-  - title: Projets
-    url: /#projets
-  - title: Compétences
-    url: /#compétences
-  - title: Contact
-    url: /#contact
-
 # Configuration markdown
 markdown: kramdown
 highlighter: rouge
@@ -39,10 +28,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# Exclusions
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
