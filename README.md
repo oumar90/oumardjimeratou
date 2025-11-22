@@ -8,11 +8,13 @@
 🌐 Site web : [ontech-securities.com](https://ontech-securities.com)  
 🐙 GitHub : [github.com/oumar90](https://github.com/oumar90)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumar90&show_icons=true&theme=radical)
+
 ---
 
 ## 🚀 Compétences techniques
 
-- **Langages** : Python, Java, JavaScript, PHP, C/C++, SQL, Shell  
+- **Langages** : [![My Skills](https://skillicons.dev/icons?i=github,git,python,java,js,html,css,c,php,powershell,flask,django)](https://skillicons.dev)
 - **Frameworks & Outils** : Django, Flask, Laravel, Bootstrap, WordPress, Elementor  
 - **Bases de données** : MySQL, PostgreSQL, SQLite  
 - **Cybersécurité** : Cryptographie, Pentesting, Audit de sécurité, Prévention & détection d’intrusion  
