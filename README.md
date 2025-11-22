@@ -73,4 +73,4 @@
 
 ---
 
-✍️ *N’hésite pas à me contacter pour collaborer sur des projets en cybersécurité, développement web ou recherche académique !*
+*N’hésite pas à me contacter pour collaborer sur des projets en cybersécurité, développement web ou recherche académique !*
