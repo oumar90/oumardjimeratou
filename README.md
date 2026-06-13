@@ -1,15 +1,5 @@
 # [OUMAR DJIME RATOU](https://oumar90.github.io/oumardjimeratou/)
 
-Ingénieur Cybersécurité - Expert IA
-
-[View the Project on GitHub oumar90/oumardjimeratou](https://github.com/oumar90/oumardjimeratou)
-
-- [Download **ZIP File**](https://github.com/oumar90/oumardjimeratou/zipball/main)
-- [Download **TAR Ball**](https://github.com/oumar90/oumardjimeratou/tarball/main)
-- [View On **GitHub**](https://github.com/oumar90/oumardjimeratou)
-
-# 👋 Bonjour, je suis Oumar Djime Ratou
-
 🎓 **Ingénieur de Conception (Master 2) en Informatique et Télécommunication** avec spécialisation en **Cryptographie et Sécurité Informatique**, et **Licence en Mathématiques et Informatique**.
 💻 Passionné par la **cybersécurité**, le **développement web** et les **technologies modernes**.
 
@@ -21,7 +11,6 @@ Ingénieur Cybersécurité - Expert IA
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumar90&show_icons=true&theme=radical)
 
 ---
-
 
 ## 🚀 Compétences techniques
 
