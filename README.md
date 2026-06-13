@@ -1,7 +1,5 @@
 # [OUMAR DJIME RATOU](https://oumar90.github.io/oumardjimeratou/)
 
-![Logo](https://oumar90.github.io/oumardjimeratou/img/oudjira.jpeg)
-
 Ingénieur Cybersécurité - Expert IA
 
 [View the Project on GitHub oumar90/oumardjimeratou](https://github.com/oumar90/oumardjimeratou)
